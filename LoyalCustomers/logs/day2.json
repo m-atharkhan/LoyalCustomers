@@ -1,0 +1,6 @@
+[
+    {"timestamp": "2024-09-11T08:30:00", "pageId": "PageB", "customerId": "Customer1"},
+    {"timestamp": "2024-09-11T09:20:00", "pageId": "PageA", "customerId": "Customer1"},
+    {"timestamp": "2024-09-11T10:15:00", "pageId": "PageD", "customerId": "Customer3"}
+]
+  
