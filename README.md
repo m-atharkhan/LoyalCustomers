@@ -19,8 +19,6 @@ LoyalCustomers/
 │   ├── index.js       # Main JavaScript code
 │
 └── README.md          # Documentation (This file)
-'''
 
-'''bash
 //Compile and run
 npm start
